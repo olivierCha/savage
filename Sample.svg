@@ -312,16 +312,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="293.41739"
-     inkscape:cy="433.9785"
+     inkscape:zoom="3.959798"
+     inkscape:cx="168.11883"
+     inkscape:cy="218.29709"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
-     inkscape:window-x="1912"
+     inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1" />
   <metadata
@@ -1715,5 +1715,12 @@
          style="fill:none;stroke:#efefef;stroke-width:4.78907;stroke-linecap:round;stroke-opacity:1"
          id="path25" />
     </g>
+    <ellipse
+       style="fill:#000000;stroke-width:0.0803647"
+       id="path1098"
+       cx="32.367847"
+       cy="60.186974"
+       rx="0.41515002"
+       ry="0.47623542" />
   </g>
 </svg>
