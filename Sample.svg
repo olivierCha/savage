@@ -53,7 +53,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -95,14 +95,14 @@
          y="78.60054"
          style="stroke-width:0.115908">m/s</tspan></text>
     <rect
-       style="fill:#00f7ff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.086392"
+       style="fill:#00f7ff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.0887251"
        id="rect10-6"
-       width="35.718761"
-       height="14.741072"
+       width="40.254475"
+       height="13.796131"
        x="58.49181"
        y="101.10863"
-       ry="5.3372831"
-       rx="3.1164019" />
+       ry="4.9951496"
+       rx="3.5121353" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.46471px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.111617"
@@ -144,5 +144,17 @@
        d="m 120.76339,78.997025 -3.19067,-1.644221 -3.1633,1.69626 0.57778,-3.542595 -2.59076,-2.48431 3.54775,-0.545223 1.56213,-3.231648 1.61486,3.205629 3.5562,0.487042 -2.54971,2.52641 z"
        inkscape:transform-center-x="0.013680527"
        inkscape:transform-center-y="-0.50312396" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.95918px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.17398"
+       x="65.639656"
+       y="134.50266"
+       id="text845"
+       transform="scale(0.91564884,1.0921217)"><tspan
+         sodipodi:role="line"
+         id="tspan843"
+         x="65.639656"
+         y="134.50266"
+         style="stroke-width:0.17398">123465789</tspan></text>
   </g>
 </svg>
