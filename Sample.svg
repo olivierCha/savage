@@ -312,9 +312,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.959798"
-     inkscape:cx="168.11883"
-     inkscape:cy="218.29709"
+     inkscape:zoom="1.4"
+     inkscape:cx="293.41739"
+     inkscape:cy="433.9785"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -1271,7 +1271,7 @@
     <path
        id="path4110"
        style="fill:#e6e6e6;stroke:#000000;stroke-width:0.0573px"
-       d="m 25.516201,63.394275 1.061646,1.536212 12.365448,-9.312604 -0.118759,-0.171845 -13.308463,7.948225 z"
+       d="m 28.162036,61.806774 1.061646,1.536212 12.365448,-9.312604 -0.118759,-0.171845 -13.308463,7.948225 z"
        sodipodi:nodetypes="ccccc"
        inkscape:transform-center-y="-29.985571"
        inkscape:transform-center-x="-25.850418" />
@@ -1715,12 +1715,5 @@
          style="fill:none;stroke:#efefef;stroke-width:4.78907;stroke-linecap:round;stroke-opacity:1"
          id="path25" />
     </g>
-    <ellipse
-       style="fill:#000000;stroke-width:0.0803647"
-       id="path1098"
-       cx="32.367847"
-       cy="60.186974"
-       rx="0.41515002"
-       ry="0.47623542" />
   </g>
 </svg>
