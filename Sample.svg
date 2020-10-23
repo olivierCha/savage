@@ -339,8 +339,8 @@
   </metadata>
   <g
      inkscape:label="Calque 1"
-     inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     inkscape:groupmode="layer">
     <path
        d="M 8.8795119,36.222398 H 199.57436 V 174.12135 H 8.8795119 Z"
        fill="url(#XMLID_1_)"
@@ -1762,5 +1762,14 @@
        y="80.581764"
        ry="0"
        inkscape:label="rect1146" />
+    <rect
+       style="fill:#000000;stroke-width:0.127299"
+       id="rectforsize-8"
+       width="2.8063288"
+       height="18.441597"
+       x="161.49762"
+       y="80.84903"
+       ry="0"
+       inkscape:label="rectForClip" />
   </g>
 </svg>
