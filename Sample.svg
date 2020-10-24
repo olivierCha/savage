@@ -1772,7 +1772,7 @@
        ry="0"
        inkscape:label="rectForClip">
       <desc
-         id="desc1108">Min=0;Max=100</desc>
+         id="desc1108">Min=&quot;0&quot; Max=&quot;100&quot;</desc>
       <title
          id="title1106">TitleForClip</title>
     </rect>
