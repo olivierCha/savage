@@ -97,8 +97,8 @@
        id="rectforsize"
        width="2.8063288"
        height="18.441597"
-       x="99.290611"
-       y="36.215023"
+       x="142.05374"
+       y="29.266016"
        ry="0"
        inkscape:label="rect1146" />
     <rect
@@ -111,7 +111,7 @@
        ry="0"
        inkscape:label="rectForClip"
        clip-path="url(#fieldClip2)"
-       transform="translate(-56.661139,-44.366741)">
+       transform="translate(-13.898015,-51.315749)">
       <desc
          id="desc840">Min=0;Max=100</desc>
       <title
@@ -120,8 +120,8 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.4287px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.81667"
-       x="25.549669"
-       y="12.636709"
+       x="35.305489"
+       y="29.711824"
        id="VAR1"
        transform="scale(0.60270994,1.6591729)"
        inkscape:label="VAR1ETIQ"><desc
@@ -129,13 +129,13 @@
          id="title845">titre1</title><tspan
          sodipodi:role="line"
          id="tspan844"
-         x="25.549669"
-         y="12.636709"
+         x="35.305489"
+         y="29.711824"
          style="stroke-width:1.81667">12345678901234567</tspan><tspan
          sodipodi:role="line"
          id="tspan846"
-         x="25.549669"
-         y="25.672585"
+         x="35.305489"
+         y="42.7477"
          style="stroke-width:1.81667" /></text>
     <path
        style="fill:#ff0000;stroke-width:0.264583"
@@ -150,5 +150,34 @@
        sodipodi:open="true"
        sodipodi:arc-type="arc"
        d="m 139.5147,125.3494 a 31.270533,22.717911 0 0 1 -31.00775,22.71711 31.270533,22.717911 0 0 1 -31.528902,-22.33529 31.270533,22.717911 0 0 1 30.477832,-23.09251 31.270533,22.717911 0 0 1 32.04115,21.94717" />
+    <rect
+       style="fill:#00f7ff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.16058"
+       id="rect10-6-6-2"
+       width="100.65739"
+       height="18.072443"
+       x="11.677836"
+       y="64.195633"
+       ry="6.5434699"
+       rx="8.7821875" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.4287px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.81667"
+       x="36.635826"
+       y="47.431286"
+       id="VAR1-0"
+       transform="scale(0.60270994,1.6591729)"
+       inkscape:label="VAR2"><desc
+         id="desc846-5">desVar1</desc><title
+         id="title845-8">titre1</title><tspan
+         sodipodi:role="line"
+         id="tspan844-8"
+         x="36.635826"
+         y="47.431286"
+         style="stroke-width:1.81667">12345678901234567</tspan><tspan
+         sodipodi:role="line"
+         id="tspan846-6"
+         x="36.635826"
+         y="60.467163"
+         style="stroke-width:1.81667" /></text>
   </g>
 </svg>
