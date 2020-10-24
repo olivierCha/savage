@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -120,21 +120,22 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.4287px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.81667"
-       x="31.757917"
-       y="30.356169"
+       x="25.549669"
+       y="12.636709"
        id="VAR1"
-       transform="scale(0.60270994,1.6591729)"><desc
-         id="desc846">des</desc><title
+       transform="scale(0.60270994,1.6591729)"
+       inkscape:label="VAR1ETIQ"><desc
+         id="desc846">desVar1</desc><title
          id="title845">titre1</title><tspan
          sodipodi:role="line"
          id="tspan844"
-         x="31.757917"
-         y="30.356169"
+         x="25.549669"
+         y="12.636709"
          style="stroke-width:1.81667">12345678901234567</tspan><tspan
          sodipodi:role="line"
          id="tspan846"
-         x="31.757917"
-         y="43.392044"
+         x="25.549669"
+         y="25.672585"
          style="stroke-width:1.81667" /></text>
     <path
        style="fill:#ff0000;stroke-width:0.264583"
