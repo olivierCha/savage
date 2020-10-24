@@ -1770,6 +1770,11 @@
        x="161.49762"
        y="80.84903"
        ry="0"
-       inkscape:label="rectForClip" />
+       inkscape:label="rectForClip">
+      <desc
+         id="desc1108">Min=0;Max=100</desc>
+      <title
+         id="title1106">TitleForClip</title>
+    </rect>
   </g>
 </svg>
