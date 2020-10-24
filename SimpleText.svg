@@ -13,7 +13,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
-   sodipodi:docname="TryClip4.svg">
+   sodipodi:docname="SimpleText.svg">
   <metadata
      id="metadata16">
     <rdf:RDF>
@@ -56,7 +56,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
      inkscape:cx="423.58659"
-     inkscape:cy="103.58276"
+     inkscape:cy="398.00422"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -71,6 +71,13 @@
      inkscape:label="Calque 1"
      id="layer1"
      inkscape:groupmode="layer">
+    <rect
+       style="fill:#ffcc00;stroke-width:0.307769"
+       id="rect843"
+       width="199.38306"
+       height="292.9274"
+       x="3.2072341"
+       y="2.6726952" />
     <path
        d="M 8.8795119,36.222398 H 199.57436 V 174.12135 H 8.8795119 Z"
        fill="url(#XMLID_1_)"
@@ -81,8 +88,8 @@
        id="rect10-6-6"
        width="100.65739"
        height="18.072443"
-       x="68.606247"
-       y="54.573929"
+       x="11.945107"
+       y="10.207188"
        ry="6.5434694"
        rx="8.7821875" />
     <rect
@@ -90,8 +97,8 @@
        id="rectforsize"
        width="2.8063288"
        height="18.441597"
-       x="155.95175"
-       y="80.581764"
+       x="99.290611"
+       y="36.215023"
        ry="0"
        inkscape:label="rect1146" />
     <rect
@@ -103,7 +110,8 @@
        y="80.84903"
        ry="0"
        inkscape:label="rectForClip"
-       clip-path="url(#fieldClip2)">
+       clip-path="url(#fieldClip2)"
+       transform="translate(-56.661139,-44.366741)">
       <desc
          id="desc840">Min=0;Max=100</desc>
       <title
@@ -112,19 +120,19 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.4287px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.81667"
-       x="138.18504"
-       y="41.954361"
+       x="44.174416"
+       y="15.214085"
        id="text842"
        transform="scale(0.60270994,1.6591729)"><tspan
          sodipodi:role="line"
          id="tspan844"
-         x="138.18504"
-         y="41.954361"
+         x="44.174416"
+         y="15.214085"
          style="stroke-width:1.81667">12345678901234567</tspan><tspan
          sodipodi:role="line"
          id="tspan846"
-         x="138.18504"
-         y="54.990234"
-         style="stroke-width:1.81667"></tspan></text>
+         x="44.174416"
+         y="28.24996"
+         style="stroke-width:1.81667" /></text>
   </g>
 </svg>
