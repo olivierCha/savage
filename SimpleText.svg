@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -126,7 +126,7 @@
        transform="scale(0.60270994,1.6591729)"
        inkscape:label="VAR1"><desc
          id="desc846">VAR1</desc><title
-         id="title845">titre1</title><tspan
+         id="title845">##VAR1</title><tspan
          sodipodi:role="line"
          id="tspan844"
          x="35.305489"
@@ -168,7 +168,7 @@
        transform="scale(0.60270994,1.6591729)"
        inkscape:label="VAR2Etiquette"><desc
          id="desc846-5">VAR2</desc><title
-         id="title845-8">titre22</title><tspan
+         id="title845-8">##VAR2</title><tspan
          sodipodi:role="line"
          id="tspan844-8"
          x="36.635826"
