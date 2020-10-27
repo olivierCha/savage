@@ -180,7 +180,7 @@
          y="76.450516"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.1853px;font-family:Century;-inkscape-font-specification:'Century, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:2.29688" /></text>
     <g
-       id="g41">
+       id="g46">
       <path
          style="fill:#28170b;stroke-width:0.264583"
          id="path853"
@@ -212,7 +212,10 @@
          inkscape:transform-center-y="-5.2283788"
          transform="matrix(0.84201176,0,0,0.83218435,5.1768143,25.662722)"
          inkscape:label="@@ROTATE"
-         d="m 59.868374,159.29265 -21.959912,-5.51576 -22.024422,5.25226 15.756748,-16.25996 6.463621,-21.69984 6.203164,21.77572 z" />
+         d="m 59.868374,159.29265 -21.959912,-5.51576 -22.024422,5.25226 15.756748,-16.25996 6.463621,-21.69984 6.203164,21.77572 z">
+        <title
+           id="title39">@@ROTATE</title>
+      </path>
       <path
          style="fill:#e3dbdb;stroke-width:0.264583"
          id="path859"
@@ -226,7 +229,10 @@
          sodipodi:open="true"
          sodipodi:arc-type="arc"
          inkscape:label="@@CENTER"
-         d="m 40.619602,145.92915 a 2.4054255,2.4054255 0 0 1 -2.385211,2.40534 2.4054255,2.4054255 0 0 1 -2.425301,-2.36491 2.4054255,2.4054255 0 0 1 2.344449,-2.44509 2.4054255,2.4054255 0 0 1 2.464704,2.32382" />
+         d="m 40.619602,145.92915 a 2.4054255,2.4054255 0 0 1 -2.385211,2.40534 2.4054255,2.4054255 0 0 1 -2.425301,-2.36491 2.4054255,2.4054255 0 0 1 2.344449,-2.44509 2.4054255,2.4054255 0 0 1 2.464704,2.32382">
+        <title
+           id="title37">@@CENTER</title>
+      </path>
     </g>
   </g>
 </svg>
