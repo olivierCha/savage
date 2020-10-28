@@ -58,7 +58,7 @@
      inkscape:cx="377.73952"
      inkscape:cy="424.29396"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g69"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="1920"
@@ -238,23 +238,6 @@
          d="m 59.868374,159.29265 -21.959912,-5.51576 -22.024422,5.25226 15.756748,-16.25996 6.463621,-21.69984 6.203164,21.77572 z">
         <title
            id="title39">@@ROTATE</title>
-      </path>
-      <path
-         style="fill:#e3dbdb;stroke-width:0.264583"
-         id="path859"
-         sodipodi:type="arc"
-         sodipodi:cx="38.214176"
-         sodipodi:cy="145.92915"
-         sodipodi:rx="2.4054255"
-         sodipodi:ry="2.4054255"
-         sodipodi:start="0"
-         sodipodi:end="6.2495703"
-         sodipodi:open="true"
-         sodipodi:arc-type="arc"
-         inkscape:label="@@CENTER"
-         d="m 40.619602,145.92915 a 2.4054255,2.4054255 0 0 1 -2.385211,2.40534 2.4054255,2.4054255 0 0 1 -2.425301,-2.36491 2.4054255,2.4054255 0 0 1 2.344449,-2.44509 2.4054255,2.4054255 0 0 1 2.464704,2.32382">
-        <title
-           id="title37">@@CENTER</title>
       </path>
       <ellipse
          style="fill:#e3dbdb;fill-opacity:1;fill-rule:evenodd;stroke-width:0.0309714"
