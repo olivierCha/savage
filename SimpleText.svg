@@ -63,7 +63,7 @@
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
-     inkscape:window-x="1912"
+     inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:object-nodes="false" />
@@ -179,74 +179,92 @@
          x="17.561235"
          y="76.450516"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.1853px;font-family:Century;-inkscape-font-specification:'Century, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:2.29688" /></text>
+    <ellipse
+       style="fill:#ff0000;fill-rule:evenodd;stroke-width:0.264583"
+       id="path52"
+       cx="129.22481"
+       cy="148.33458"
+       rx="15.635266"
+       ry="14.699823" />
+    <rect
+       style="fill:#e3dbdb;stroke-width:0.264583"
+       id="rect54"
+       width="15.501633"
+       height="20.312483"
+       x="161.16353"
+       y="137.64381" />
+    <ellipse
+       style="fill:#ff0000;fill-rule:evenodd;stroke-width:0.264583"
+       id="path56"
+       cx="162.49986"
+       cy="194.70584"
+       rx="13.630746"
+       ry="12.962572" />
     <g
-       id="g68">
-      <g
-         id="g46">
+       id="g69">
+      <title
+         id="title71">##VAR10</title>
+      <path
+         style="fill:#28170b;stroke-width:0.264583"
+         id="path853"
+         sodipodi:type="arc"
+         sodipodi:cx="37.412361"
+         sodipodi:cy="146.73096"
+         sodipodi:rx="21.916101"
+         sodipodi:ry="20.847023"
+         sodipodi:start="0"
+         sodipodi:end="6.2495703"
+         sodipodi:open="true"
+         sodipodi:arc-type="arc"
+         d="M 59.328463,146.73096 A 21.916101,20.847023 0 0 1 37.596536,167.57724 21.916101,20.847023 0 0 1 15.499355,147.08133 21.916101,20.847023 0 0 1 36.859887,125.89056 21.916101,20.847023 0 0 1 59.316082,146.03032" />
+      <path
+         sodipodi:type="star"
+         style="fill:#e3dbdb;stroke-width:0.264583"
+         id="path857"
+         sodipodi:sides="3"
+         sodipodi:cx="37.952274"
+         sodipodi:cy="146.46371"
+         sodipodi:r1="25.394823"
+         sodipodi:r2="7.313303"
+         sodipodi:arg1="0.5295896"
+         sodipodi:arg2="1.5767871"
+         inkscape:flatsided="false"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         inkscape:transform-center-x="0.064050909"
+         inkscape:transform-center-y="-5.2283788"
+         transform="matrix(0.84201176,0,0,0.83218435,5.1768143,25.662722)"
+         inkscape:label="@@ROTATE"
+         d="m 59.868374,159.29265 -21.959912,-5.51576 -22.024422,5.25226 15.756748,-16.25996 6.463621,-21.69984 6.203164,21.77572 z">
         <title
-           id="title36">##VAR10</title>
-        <path
-           style="fill:#28170b;stroke-width:0.264583"
-           id="path853"
-           sodipodi:type="arc"
-           sodipodi:cx="37.412361"
-           sodipodi:cy="146.73096"
-           sodipodi:rx="21.916101"
-           sodipodi:ry="20.847023"
-           sodipodi:start="0"
-           sodipodi:end="6.2495703"
-           sodipodi:open="true"
-           sodipodi:arc-type="arc"
-           d="M 59.328463,146.73096 A 21.916101,20.847023 0 0 1 37.596536,167.57724 21.916101,20.847023 0 0 1 15.499355,147.08133 21.916101,20.847023 0 0 1 36.859887,125.89056 21.916101,20.847023 0 0 1 59.316082,146.03032" />
-        <path
-           sodipodi:type="star"
-           style="fill:#e3dbdb;stroke-width:0.264583"
-           id="path857"
-           sodipodi:sides="3"
-           sodipodi:cx="37.952274"
-           sodipodi:cy="146.46371"
-           sodipodi:r1="25.394823"
-           sodipodi:r2="7.313303"
-           sodipodi:arg1="0.5295896"
-           sodipodi:arg2="1.5767871"
-           inkscape:flatsided="false"
-           inkscape:rounded="0"
-           inkscape:randomized="0"
-           inkscape:transform-center-x="0.064050909"
-           inkscape:transform-center-y="-5.2283788"
-           transform="matrix(0.84201176,0,0,0.83218435,5.1768143,25.662722)"
-           inkscape:label="@@ROTATE"
-           d="m 59.868374,159.29265 -21.959912,-5.51576 -22.024422,5.25226 15.756748,-16.25996 6.463621,-21.69984 6.203164,21.77572 z">
-          <title
-             id="title39">@@ROTATE</title>
-        </path>
-        <path
-           style="fill:#e3dbdb;stroke-width:0.264583"
-           id="path859"
-           sodipodi:type="arc"
-           sodipodi:cx="38.214176"
-           sodipodi:cy="145.92915"
-           sodipodi:rx="2.4054255"
-           sodipodi:ry="2.4054255"
-           sodipodi:start="0"
-           sodipodi:end="6.2495703"
-           sodipodi:open="true"
-           sodipodi:arc-type="arc"
-           inkscape:label="@@CENTER"
-           d="m 40.619602,145.92915 a 2.4054255,2.4054255 0 0 1 -2.385211,2.40534 2.4054255,2.4054255 0 0 1 -2.425301,-2.36491 2.4054255,2.4054255 0 0 1 2.344449,-2.44509 2.4054255,2.4054255 0 0 1 2.464704,2.32382">
-          <title
-             id="title37">@@CENTER</title>
-        </path>
-      </g>
+           id="title39">@@ROTATE</title>
+      </path>
+      <path
+         style="fill:#e3dbdb;stroke-width:0.264583"
+         id="path859"
+         sodipodi:type="arc"
+         sodipodi:cx="38.214176"
+         sodipodi:cy="145.92915"
+         sodipodi:rx="2.4054255"
+         sodipodi:ry="2.4054255"
+         sodipodi:start="0"
+         sodipodi:end="6.2495703"
+         sodipodi:open="true"
+         sodipodi:arc-type="arc"
+         inkscape:label="@@CENTER"
+         d="m 40.619602,145.92915 a 2.4054255,2.4054255 0 0 1 -2.385211,2.40534 2.4054255,2.4054255 0 0 1 -2.425301,-2.36491 2.4054255,2.4054255 0 0 1 2.344449,-2.44509 2.4054255,2.4054255 0 0 1 2.464704,2.32382">
+        <title
+           id="title37">@@CENTER</title>
+      </path>
       <ellipse
-         style="fill:#e3dbdb;fill-opacity:1;fill-rule:evenodd;stroke-width:0.0172717"
-         id="path55"
-         cx="37.551357"
-         cy="146.73097"
-         rx="1.202713"
-         ry="1.3363473">
+         style="fill:#e3dbdb;fill-opacity:1;fill-rule:evenodd;stroke-width:0.0309714"
+         id="path58"
+         cx="37.284103"
+         cy="146.86461"
+         rx="1.469983"
+         ry="1.2027134">
         <title
-           id="title57">@@CENTER</title>
+           id="title60">@@CENTER</title>
       </ellipse>
     </g>
   </g>
