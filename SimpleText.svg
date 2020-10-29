@@ -58,12 +58,12 @@
      inkscape:cx="377.73952"
      inkscape:cy="424.29396"
      inkscape:document-units="mm"
-     inkscape:current-layer="g69"
+     inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
-     inkscape:window-x="-8"
+     inkscape:window-x="1912"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:object-nodes="false" />
@@ -78,6 +78,13 @@
        height="218.89374"
        x="0.26726937"
        y="-1.0065613e-07" />
+    <rect
+       style="fill:#000000;stroke-width:0.264583"
+       id="rect42"
+       width="27.261492"
+       height="21.648832"
+       x="34.210499"
+       y="186.55414" />
     <path
        d="M 8.8795119,36.222398 H 199.57436 V 174.12135 H 8.8795119 Z"
        fill="url(#XMLID_1_)"
@@ -250,5 +257,18 @@
            id="title60">@@CENTER</title>
       </ellipse>
     </g>
+    <rect
+       style="fill:#e3dbdb;stroke-width:0.287177"
+       id="rect40"
+       width="22.985178"
+       height="17.105244"
+       x="36.081379"
+       y="189.22681"
+       ry="8.5526218">
+      <desc
+         id="desc46">COLOR(0:red;1:green;3:blue;&gt;15:yellow)</desc>
+      <title
+         id="title44">##COULEUR</title>
+    </rect>
   </g>
 </svg>
