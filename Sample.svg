@@ -643,6 +643,8 @@
     <g
        id="g1280"
        inkscape:label="##TEMPERATURE">
+      <desc
+         id="desc322">{ &quot;min&quot;:-140, &quot;max&quot;:150, &quot;minangle&quot;:-145, &quot;maxangle&quot;:147}</desc>
       <title
          id="title1282">##TEMPERATURE</title>
       <path
@@ -1800,7 +1802,7 @@
        id="g375"
        transform="translate(-1.1339286,-3.1655506)">
       <desc
-         id="desc320">{ &quot;min&quot;:0, &quot;max&quot;:100, &quot;minangle&quot;:-64, &quot;maxangle&quot;:110}</desc>
+         id="desc320">{ &quot;min&quot;:0, &quot;max&quot;:100, &quot;minangle&quot;:-65, &quot;maxangle&quot;:110}</desc>
       <title
          id="title377">##ROT1</title>
       <g
