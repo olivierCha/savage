@@ -313,8 +313,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.9899495"
-     inkscape:cx="91.241703"
-     inkscape:cy="76.200961"
+     inkscape:cx="395.45887"
+     inkscape:cy="186.02513"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -1799,6 +1799,8 @@
     <g
        id="g375"
        transform="translate(-1.1339286,-3.1655506)">
+      <desc
+         id="desc320">{ &quot;min&quot;:0, &quot;max&quot;:100, &quot;minangle&quot;:65, &quot;maxangle&quot;:110}</desc>
       <title
          id="title377">##ROT1</title>
       <g
