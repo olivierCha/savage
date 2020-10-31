@@ -95,7 +95,7 @@
        x2="263.76999"
        y1="709.02002"
        x1="263.76999"
-       gradientTransform="matrix(0.39515436,0,0,0.22221334,-0.01636002,0.0893176)">
+       gradientTransform="matrix(0.39515436,0,0,0.22221334,0.25090951,1.1583957)">
       <stop
          stop-color="#7FEEFF"
          offset="0"
@@ -342,77 +342,77 @@
      id="layer1"
      inkscape:groupmode="layer">
     <path
-       d="M -0.01635952,0.089313 H 208.44337 V 157.64303 H -0.01635952 Z"
+       d="M 0.25091001,1.1583911 H 208.71064 V 158.71211 H 0.25091001 Z"
        fill="url(#XMLID_1_)"
        id="path15"
        style="fill:url(#XMLID_1_);stroke-width:0.296326" />
     <rect
-       style="fill:#00f7ff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.0965493"
+       style="fill:#00f7ff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.114674"
        id="rect10"
-       width="39.046272"
+       width="55.082443"
        height="16.842119"
-       x="55.657406"
-       y="53.936729"
+       x="48.708397"
+       y="93.492622"
        ry="6.0980072"
-       rx="3.4067218" />
+       rx="4.805851" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.98962px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12474"
-       x="71.862938"
-       y="52.633263"
+       x="70.555023"
+       y="85.839767"
        id="VAR1"
        transform="scale(0.81739147,1.223404)"><title
          id="title1284">##VAR3</title><tspan
          sodipodi:role="line"
          id="tspan849"
-         x="71.862938"
-         y="52.633263"
+         x="70.555023"
+         y="85.839767"
          style="stroke-width:0.12474">123456.123</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.18144px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.129536"
-       x="100.32091"
-       y="54.263874"
+       x="102.8399"
+       y="88.293159"
        id="text851-7"
        transform="scale(0.84881322,1.1781155)"><tspan
          sodipodi:role="line"
          id="tspan871"
-         x="100.32091"
-         y="54.263874"
+         x="102.8399"
+         y="88.293159"
          style="stroke-width:0.129536">m/s</tspan></text>
     <rect
        style="fill:#00f7ff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.0991566"
        id="rect10-6"
        width="44.004528"
        height="15.762496"
-       x="55.5541"
-       y="75.961037"
+       x="61.166759"
+       y="52.708584"
        ry="5.707109"
        rx="3.8393211" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.98963px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12474"
-       x="71.736557"
-       y="70.635742"
-       id="VAR2"
+       x="80.237999"
+       y="51.192459"
+       id="VAR1-11"
        transform="scale(0.81739147,1.223404)"><title
          id="title379">##VAR1</title><tspan
          sodipodi:role="line"
          id="tspan849-4"
-         x="71.736557"
-         y="70.635742"
+         x="80.237999"
+         y="51.192459"
          style="stroke-width:0.12474">123456.123</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.18145px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.129536"
-       x="100.19921"
-       y="72.958397"
+       x="111.53469"
+       y="52.994549"
        id="text851-7-7"
        transform="scale(0.84881322,1.1781155)"><tspan
          sodipodi:role="line"
          id="tspan871-9"
-         x="100.19921"
-         y="72.958397"
+         x="111.53469"
+         y="52.994549"
          style="stroke-width:0.129536">m/s</tspan></text>
     <path
        sodipodi:type="star"
@@ -1756,21 +1756,22 @@
        id="rect10-6-6"
        width="44.004528"
        height="15.762496"
-       x="76.544502"
-       y="94.248795"
+       x="98.99514"
+       y="72.332695"
        ry="5.707109"
        rx="3.8393211" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.98963px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12474"
-       x="99.152885"
-       y="85.169289"
+       x="128.93262"
+       y="67.867958"
        id="text851-5-0"
-       transform="scale(0.81739146,1.223404)"><tspan
+       transform="scale(0.81739147,1.223404)"><title
+         id="title407">##VAR2</title><tspan
          sodipodi:role="line"
          id="tspan849-4-3"
-         x="99.152885"
-         y="85.169289"
+         x="128.93262"
+         y="67.867958"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.98963px;font-family:Rockwell;-inkscape-font-specification:'Rockwell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.12474">123456.123</tspan></text>
     <rect
        style="fill:#000000;stroke-width:0.142265"
@@ -1904,35 +1905,35 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="23.252447"
-       y="88.733482"
+       x="30.201456"
+       y="64.411949"
        id="text383"><tspan
          sodipodi:role="line"
          id="tspan381"
-         x="23.252447"
-         y="88.733482"
+         x="30.201456"
+         y="64.411949"
          style="stroke-width:0.264583">VAR1</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="36.348656"
-       y="107.17508"
+       x="60.670181"
+       y="83.92263"
        id="text387"><tspan
          sodipodi:role="line"
          id="tspan385"
-         x="36.348656"
-         y="107.17508"
+         x="60.670181"
+         y="83.92263"
          style="stroke-width:0.264583">VAR2</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="23.838346"
-       y="64.59758"
+       x="17.423878"
+       y="106.55891"
        id="text387-6"><tspan
          sodipodi:role="line"
          id="tspan385-1"
-         x="23.838346"
-         y="64.59758"
+         x="17.423878"
+         y="106.55891"
          style="stroke-width:0.264583">VAR3</tspan></text>
   </g>
 </svg>
