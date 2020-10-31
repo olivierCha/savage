@@ -312,9 +312,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6"
-     inkscape:cx="262.15971"
-     inkscape:cy="46.630251"
+     inkscape:zoom="0.9899495"
+     inkscape:cx="91.241703"
+     inkscape:cy="76.200961"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -395,7 +395,8 @@
        x="71.736557"
        y="70.635742"
        id="VAR2"
-       transform="scale(0.81739147,1.223404)"><tspan
+       transform="scale(0.81739147,1.223404)"><title
+         id="title379">##VAR1</title><tspan
          sodipodi:role="line"
          id="tspan849-4"
          x="71.736557"
@@ -1900,5 +1901,38 @@
            id="title353">@@CENTER</title>
       </ellipse>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="23.252447"
+       y="88.733482"
+       id="text383"><tspan
+         sodipodi:role="line"
+         id="tspan381"
+         x="23.252447"
+         y="88.733482"
+         style="stroke-width:0.264583">VAR1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="36.348656"
+       y="107.17508"
+       id="text387"><tspan
+         sodipodi:role="line"
+         id="tspan385"
+         x="36.348656"
+         y="107.17508"
+         style="stroke-width:0.264583">VAR2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="23.838346"
+       y="64.59758"
+       id="text387-6"><tspan
+         sodipodi:role="line"
+         id="tspan385-1"
+         x="23.838346"
+         y="64.59758"
+         style="stroke-width:0.264583">VAR3</tspan></text>
   </g>
 </svg>
