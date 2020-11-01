@@ -2413,7 +2413,7 @@
        inkscape:label="g2268"
        transform="translate(1.6063988,-3.4962798)">
       <desc
-         id="desc2272">{&quot;min&quot;=0,&quot;max&quot;=10,&quot;}</desc>
+         id="desc2272">{&quot;min&quot;=0,&quot;max&quot;=10,&quot;minangle&quot;=10,&quot;maxangle&quot;=240}</desc>
       <title
          id="title2270">##RPM</title>
       <g
