@@ -900,7 +900,7 @@
        d="m 113.20387,44.601193 -3.19066,-1.644221 -3.16331,1.69626 0.57778,-3.542595 -2.59076,-2.48431 3.54775,-0.545223 1.56214,-3.231648 1.61485,3.205629 3.55621,0.487042 -2.54972,2.52641 z"
        inkscape:transform-center-x="0.022122639"
        inkscape:transform-center-y="-0.87064664"
-       transform="matrix(1.6170563,0,0,1.7304809,-49.755118,-52.972575)" />
+       transform="matrix(1.6170563,0,0,1.7304809,-81.505118,-53.161563)" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:7.77739px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.194435"
@@ -2413,7 +2413,7 @@
        inkscape:label="g2268"
        transform="translate(1.6063988,-3.4962798)">
       <desc
-         id="desc2272">{&quot;min&quot;:0,&quot;max&quot;:10,&quot;minangle&quot;:10,&quot;maxangle&quot;:240}</desc>
+         id="desc2272">{ &quot;min&quot;:0,&quot;max&quot;:10,&quot;minangle&quot;:10, &quot;maxangle&quot;:240 }</desc>
       <title
          id="title2270">##RPM</title>
       <g
