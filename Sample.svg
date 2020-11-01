@@ -95,7 +95,7 @@
        x2="263.76999"
        y1="709.02002"
        x1="263.76999"
-       gradientTransform="matrix(0.39515436,0,0,0.22221334,-0.50504287,0.40244332)">
+       gradientTransform="matrix(0.39515436,0,0,0.22221334,0.6288857,0.59143142)">
       <stop
          stop-color="#7FEEFF"
          offset="0"
@@ -782,8 +782,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="380.79426"
-     inkscape:cy="80.09237"
+     inkscape:cx="431.70374"
+     inkscape:cy="296.26542"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -811,7 +811,7 @@
      id="layer1"
      inkscape:groupmode="layer">
     <path
-       d="M -0.50504237,0.40243872 H 207.95469 V 157.95616 H -0.50504237 Z"
+       d="M 0.6288862,0.59142682 H 209.08862 V 158.14515 H 0.6288862 Z"
        fill="url(#XMLID_1_)"
        id="path15"
        style="fill:url(#XMLID_1_);stroke-width:0.296326" />
@@ -854,34 +854,34 @@
        id="rect10-6"
        width="44.004528"
        height="15.762496"
-       x="61.166759"
-       y="52.708584"
+       x="57.387001"
+       y="13.399059"
        ry="5.707109"
        rx="3.8393211" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.98963px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12474"
-       x="80.237999"
-       y="51.192459"
+       x="72.608109"
+       y="19.370144"
        id="VAR1-11"
        transform="scale(0.81739147,1.223404)"><title
          id="title379">##VAR1</title><tspan
          sodipodi:role="line"
          id="tspan849-4"
-         x="80.237999"
-         y="51.192459"
+         x="72.608109"
+         y="19.370144"
          style="stroke-width:0.12474">123456.123</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.18145px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.129536"
-       x="111.53469"
-       y="52.994549"
+       x="103.9646"
+       y="19.788521"
        id="text851-7-7"
        transform="scale(0.84881322,1.1781155)"><tspan
          sodipodi:role="line"
          id="tspan871-9"
-         x="111.53469"
-         y="52.994549"
+         x="103.9646"
+         y="19.788521"
          style="stroke-width:0.129536">m/s</tspan></text>
     <path
        sodipodi:type="star"
@@ -900,7 +900,7 @@
        d="m 113.20387,44.601193 -3.19066,-1.644221 -3.16331,1.69626 0.57778,-3.542595 -2.59076,-2.48431 3.54775,-0.545223 1.56214,-3.231648 1.61485,3.205629 3.55621,0.487042 -2.54972,2.52641 z"
        inkscape:transform-center-x="0.022122639"
        inkscape:transform-center-y="-0.87064664"
-       transform="matrix(1.6170563,0,0,1.7304809,-81.505118,-53.161563)" />
+       transform="matrix(1.6170563,0,0,1.7304809,14.311846,-56.563349)" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:7.77739px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.194435"
@@ -1111,7 +1111,8 @@
     </g>
     <g
        id="g1280"
-       inkscape:label="">
+       inkscape:label=""
+       transform="translate(-3.2127976,-6.6145833)">
       <desc
          id="desc322">{ &quot;min&quot;:-140, &quot;max&quot;:150, &quot;minangle&quot;:-145, &quot;maxangle&quot;:147}</desc>
       <title
@@ -2227,22 +2228,22 @@
        id="rect10-6-6"
        width="44.004528"
        height="15.762496"
-       x="98.99514"
-       y="72.332695"
+       x="42.29871"
+       y="57.969601"
        ry="5.707109"
        rx="3.8393211" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.98963px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12474"
-       x="128.93262"
-       y="67.867958"
+       x="56.333057"
+       y="55.046345"
        id="text851-5-0"
        transform="scale(0.81739147,1.223404)"><title
          id="title407">##VAR2</title><tspan
          sodipodi:role="line"
          id="tspan849-4-3"
-         x="128.93262"
-         y="67.867958"
+         x="56.333057"
+         y="55.046345"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.98963px;font-family:Rockwell;-inkscape-font-specification:'Rockwell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.12474">123456.123</tspan></text>
     <rect
        style="fill:#000000;stroke-width:0.142265"
@@ -2269,7 +2270,7 @@
     </rect>
     <g
        id="g375"
-       transform="translate(-1.1339286,-3.1655506)">
+       transform="translate(63.5,-4.1104911)">
       <desc
          id="desc320">{ &quot;min&quot;:0, &quot;max&quot;:100, &quot;minangle&quot;:-65, &quot;maxangle&quot;:110}</desc>
       <title
@@ -2378,24 +2379,24 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="30.201456"
-       y="64.411949"
+       x="62.707409"
+       y="11.117306"
        id="text383"><tspan
          sodipodi:role="line"
          id="tspan381"
-         x="30.201456"
-         y="64.411949"
+         x="62.707409"
+         y="11.117306"
          style="stroke-width:0.264583">VAR1</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="60.670181"
-       y="83.92263"
+       x="10.399348"
+       y="69.559532"
        id="text387"><tspan
          sodipodi:role="line"
          id="tspan385"
-         x="60.670181"
-         y="83.92263"
+         x="10.399348"
+         y="69.559532"
          style="stroke-width:0.264583">VAR2</tspan></text>
     <text
        xml:space="preserve"
@@ -2411,7 +2412,7 @@
     <g
        id="g2268"
        inkscape:label="g2268"
-       transform="translate(1.6063988,-3.4962798)">
+       transform="matrix(0.68370246,0,0,0.75549867,5.9442272,80.082776)">
       <desc
          id="desc2272">{ &quot;min&quot;:0,&quot;max&quot;:10,&quot;minangle&quot;:10, &quot;maxangle&quot;:240 }</desc>
       <title
